@@ -1,0 +1,13 @@
+account,post_id,surface,format,visibility,distribution,metric,unit,definition,value,age_hours,source_url,observed_at
+synthetic-a,p01,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p01,2026-10-01T12:00:00+00:00
+synthetic-a,p02,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p02,2026-10-01T12:00:00+00:00
+synthetic-a,p03,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p03,2026-10-01T12:00:00+00:00
+synthetic-a,p04,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p04,2026-10-01T12:00:00+00:00
+synthetic-a,p05,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p05,2026-10-01T12:00:00+00:00
+synthetic-a,p06,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p06,2026-10-01T12:00:00+00:00
+synthetic-a,p07,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p07,2026-10-01T12:00:00+00:00
+synthetic-a,p08,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p08,2026-10-01T12:00:00+00:00
+synthetic-a,p09,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p09,2026-10-01T12:00:00+00:00
+synthetic-a,p10,page,image,public,organic,reactions,count,visible-reactions,10,168,fixture://p10,2026-10-01T12:00:00+00:00
+synthetic-a,p11,page,image,public,organic,reactions,count,visible-reactions,20,168,fixture://p11,2026-10-01T12:00:00+00:00
+synthetic-a,p12,page,image,public,organic,reactions,count,visible-reactions,200,168,fixture://p12,2026-10-01T12:00:00+00:00

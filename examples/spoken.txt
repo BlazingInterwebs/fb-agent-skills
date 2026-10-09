@@ -1,0 +1,1 @@
+Three people hit the same problem in our onboarding test. They couldn't tell which fields were required. We marked those fields and are testing again. We do not have conversion results yet. The useful lesson so far is to stop making people guess.

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "facebook-agent-skills",
+  "version": "0.1.0",
+  "description": "Facebook-native content, audience growth, genuine conversations, and evidence-led improvement. Drafting and supplied-data analysis, not publishing automation.",
+  "author": {"name": "Blazing Interwebs"},
+  "repository": "https://github.com/BlazingInterwebs/fb-agent-skills",
+  "license": "MIT",
+  "keywords": ["facebook", "content", "creators", "audience-growth", "agent-skills"]
+}
